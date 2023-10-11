@@ -1,0 +1,2 @@
+I want to learn to Common lisp, which is functional programming language.
+It will give me a fresh perspective into new paradigm.
