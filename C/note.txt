@@ -4,3 +4,8 @@ How do I make to do that?
 1. I believe exploration of all, and new code in these languages would help.
 2. I need to get my keys set on the keywords of these languages.
 3. Lastly, I would use this repository as my notebook, where I could record how I feel for these languages.
+
+For the case fo C, it is a fairly easy language.
+There are a limited keywords and not many paradigms.
+I will also gain a better understanding of low level programming with it.
+
